@@ -1,0 +1,29 @@
+
+https://demoqa.com/automation-practice-form   bu siteye gidin.
+
+todo        SADECE aþaðýda bahsedilen kýsýmlarý doldurunuz !
+1.      Name
+2.      LastName
+3.      Email
+4.      Gender:
+5.	    Mobile:
+6.      Doðum Tarihi
+7.      Hobbies
+8.      Current adress
+9.      State and City seç
+10.     Submit butona týkla
+11.     Ekrandaki mesajý dogrula
+12.     2 Saniye bekledikten sonra close butonuna bas
+13.     2 saniye bekleyip sistemi kapat.
+
+            Buralarý kendinize göre doldurun.
+            Submit butonuna bastýrýn.
+
+             yeni bir bilgi çerçevesi açýlacaktýr.
+             Bilgi çerçevesinin baþlýðýnýn ekranda gözüküp gözükmediðini check edin.
+             (Eðer gözüktüyse formda zorunlu olan kýsýmlarý doldurmuþsunuz demektir,yani sorun yok demektir.)
+
+             Bilgi mesajý : Thanks for submitting the form
+             Onu görünce de close butonuna bastýrýn ve bekleyip sistemi tamamen kapatýn.
+
+             Test baþarýyla tamamlandýysa konsolda "Formu doldurdugunuz için teþekkür ederiz..." mesajý yazsýn.

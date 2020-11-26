@@ -1,0 +1,58 @@
+
+https://form.jotform.com/202426526543351   bu websitesine git
+
+2. isim soyisimi doldur.
+
+3.iletişim no yu doldur.
+
+4.emaili doldur.
+
+5.Ne zaman çalışabilirsin kısmındaki seçeneklere 1'er saniye bekleme ile sırayla tıklat. (Liste oluştur ve döngü ile tıklat)
+en son other kısmına geldiginde kutucuk açılacak. oraya   "5-9 "   yazdır.
+
+
+6.İlgi alanı kısmında sırasıyla,
+Mentoring dinlemek , Java , Selenium,   Ömer hocanın mentoringleri     kısımlarına tıkla.
+
+Ve bunları konsola yazdır. Tıkladıgımız kısımları konsola yazdırın.
+todo  (lütfen tek tek kodlarını bulup tıklatmayın. List oluşturup döngü ile tıklatın. Oradaki matematiği size bırakıyorum :)
+
+
+7. Özel bir yetenegin var mı ? kısmı için,
+Her Run yaptıgınızda, her yeni testte farklı bir checkbox a tıklasın. Random oluşturun ve oradaki seçeneklerden birisine random tıklasın.
+ve tıkladığı şeyi konsola yazdırsın.
+
+
+8.Yorumunuz:
+
+"Geri dönüşünüzü sabırsızlıkla bekliyorum. "  Yazsın.
+
+9.Formu gönder ' e tıkla.
+
+
+10. Thank you yazısını check et. Eger thank you yazıyorsa form başarı ile doldurulmus demektir.
+
+Thank You !         mesajını test edin.
+
+todo        Konsoldaki görüntü şöyle olmalı:
+İlgi alanlarım :
+İsmet hocanın dersleri
+Java
+Selenium
+Ömer hocanın mentoringleri
+Özel yeteneğim :  Javada çok iyiyim
+Form başarıyla gönderilmiştir..
+
+
+
+
+
+todo NOT :    JavascriptExecutor js =(JavascriptExecutor) driver;
+
+ Bu kodu        driver.get() methodunun altındaki satıra yapıştırın.  ScrollDown kodudur.
+
+
+
+ todo  2:       js.executeScript("window.scrollBy(0,600)");
+ bu kodu ise sizlere verdiğim ödevdeki 5. aşamadan (other kısmına 5-9 yazdırın kısmından) sonraki satıra yapıştırın. 5-9 yazdıktan sonra   sayfayı aşağıya scrollayacak. Şimdilik bunu dedigim gibi yapıştırın.
+ ileride detayını göreceğiz...          Bu iki kodu direkt copy paste yapın.

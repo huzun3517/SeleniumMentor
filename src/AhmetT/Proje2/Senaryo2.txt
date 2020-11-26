@@ -1,0 +1,13 @@
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+2.  https://www.seleniumeasy.com/test/basic-checkbox-demo.html
+    a.  Single Checkbox Demo
+        checkbox'a tiklayiniz
+
+    b.  Multiple Checkbox Demo
+        "Multiple Checkbox Demo" yazisina kadar scrol yapiniz
+        tüm checkbox'lari check yapiniz
+        tüm checkbox'lari uncheck yapiniz
+        random bir adet checkbox check yapiniz
+        ekran kaydi aliniz
+---------------------------------------------------------------------

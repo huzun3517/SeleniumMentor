@@ -1,0 +1,12 @@
+
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+5.  https://www.seleniumeasy.com/test/bootstrap-dual-list-box-demo.html
+    Dual List Box Example
+    - Soldaki ve sagdaki elemanlarin listesini bulun
+    - Tüm elemanlari bulup consola yazdirin (ayni olanlar 1 kez yazilacak)
+    - Fakli elemanlari bulup consola yazdirin
+    - Ortak elemanlari bulup consola yazdirin
+    - Sayfa üzerinde ayni olanlari sol listede, farkli olanlari sag listeye tasiyin.
+
+---------------------------------------------------------------------

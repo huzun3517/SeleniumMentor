@@ -1,0 +1,25 @@
+
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+7.  MERAKLISINA PROJE
+    1.  "https://www.snapdeal.com/" sitesine gidin
+    2.  div[class="push-container"] cikarsa id="pushDenied" edin
+        bazan cikan web elementleri icin belirli bekleme süresi olan ve
+        beklenen sürede cikarsa islem yapan cikmaz ise devam eden bir method yaziniz
+    3.  watch" arattirin
+    4.  "Men's Watches" a tiklayin
+    5.  div[class^='filter-price-slider']  ya da  div[data-name='Price']>div[class^='filter-price-slider']
+        sliderin fiyat araligini
+        sol handle      -> a[class*='price-slider-scroll left-handle'] ile  7000 civarina
+        right handle    -> a[class*='price-slider-scroll right-handle'] ile 20000 civarina getirin
+    6.  "Strap Material" dan "enabled" olanlardan random bir tanesini secin
+    7.  "Strap Color" dan enabled olanlardan en cok sayida olan iki taneden birini secin
+    8.  "Dial Color" dan enabled olanlardan en az sayida olan 3 taneden birini secin
+    9.  kac ürün ciktiginin ekran görünrüsünü alin
+    10. ürünün hemen üzerindeki div[class='filters']  den "Dial Color" filtresini silin
+    11. cikan ürünlerden random birisini secin, ismini, fiyatini, ekran görüntüsünü alin ve tiklatin
+    12. Acilan window da ayni ürünün bilgilerini alaran isim ve fiyat assert edin, ekran görüntüsü alin.
+    13. Ürün resmi yanindaki kücük resimlerden ikincisinin secin
+    14. büyük resmin üzerinde mause ile dolasin arada en az 3 ekran görüntüsü alin
+
+----------------------------------------------------------------------------------------------

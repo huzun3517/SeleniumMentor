@@ -1,0 +1,15 @@
+
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+3.  https://www.seleniumeasy.com/test/basic-radiobutton-demo.html
+    a.  Radio Button Demo
+        Male secip, "Get Checked Value" tiklayiniz
+        Female secip, "Get Checked Value" tiklayiniz
+    b.  Group Radio Buttons Demo
+        "Group Radio Buttons Demo" yazisina kadar ekrani kaydiriniz
+        Actions kullanarak
+            Female, 5-15 secip "Get Values" e tiklatin, altta verinin gelisini bekleyin
+            Male, 0-5 secip "Get Values" e tiklatin, altta verinin gelisini bekleyin
+        ekrankaydi aliniz
+
+---------------------------------------------------------------------

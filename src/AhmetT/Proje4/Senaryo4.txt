@@ -1,0 +1,22 @@
+
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+4.  https://www.seleniumeasy.com/test/basic-select-dropdown-demo.html
+    a.  Select List Demo
+        Value "Friday" secin
+        GörünürText "Monday" secin
+        options sayisini consola yazdirin
+        random olarak bir index ile bir secim yapin
+        random olarak bir value ile bir secim yapin
+        random olarak bir GörünürText ile bir secim yapin
+
+    b.  Multi Select List Demo
+        options sayisini consola yazdirin
+        random bir eleman secin (index, value veya text)
+        bu secimi kaldirin
+        ilk 3 elemani secin
+        secimleri kaldirin
+        tek sayidaki elemanlari secin (1,3,5,7)
+        ekrankaydi aliniz
+
+---------------------------------------------------------------------

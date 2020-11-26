@@ -1,0 +1,10 @@
+
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+6.  https://www.seleniumeasy.com/test/table-data-download-demo.html
+    Tabloya ait istatistikler, asagidakileri consola yazdiriniz
+    - Satir ve sütun sayisi
+    - Kac farkli ofis mevcuttur ve isimleri
+    - Age ve Salari ortalamasi
+
+---------------------------------------------------------------------

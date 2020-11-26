@@ -1,0 +1,19 @@
+YAPILACAK ISLEMLER
+---------------------------------------------------------------------
+1.  https://www.seleniumeasy.com/test/basic-first-form-demo.html
+    a.  Single Input Field
+            inputbox'a isminizi giriniz
+            "Show Message" butonuna tiklayiniz
+    b.  Two Input Fields
+            "Two Input Fields" yazisina kadar ekrani kaydiriniz
+            "Enter a" ve "Enter b" inputbox larina sayi giriniz
+            "Get Total" butonuna tiklayiniz
+    c.  Two Input Fields
+            "Enter a" ve "Enter b" alanlarini clear() ediniz
+            "Enter a" input box'ina .sendKeys((int)(1000 + Math.random()*9000)); ile sayi yazin
+            Actions ile "Enter a" input box'ina yazdiginiz random sayiyi kopyalayip "Enter b" alanina yazdirin
+            "Enter a" ve "Enter b" inputbox larinin getAttribute ile value lerini alin
+            Bu iki degeri Assert ile kontrol edin
+            ekran kaydi aliniz
+
+----------------------------------------------------------------------------------------------
